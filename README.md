@@ -36,7 +36,8 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 # Hybrid BCI
 [Implementing over 100 command codes for a high-speed hybrid brain-computer interface using concurrent P300 and SSVEP features {TBE 2020}](https://ieeexplore.ieee.org/abstract/document/9023382)
-[A high-speed hybrid brain-computer interface with more than 200 targets] (https://iopscience.iop.org/article/10.1088/1741-2552/acb105) {JNE 2023}
+
+[A high-speed hybrid brain-computer interface with more than 200 targets {JNE 2023}](https://iopscience.iop.org/article/10.1088/1741-2552/acb105) 
 
 # Feautre Extraction and Classification
 [Enhancing Detection of SSVEPs for a High-Speed Brain Speller Using Task-Related Component Analysis {TBE 2017}](https://ieeexplore.ieee.org/document/7904641)
@@ -49,16 +50,16 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 Pull requests are welcomed, if a paper report unprecedented results or it is a good tutorial send a pull request and we will discuss it.
 
 # Journal acronyms
-JNE: Journal of Neural Engineering
+JNE: [Journal of Neural Engineering](https://iopscience.iop.org/journal/1741-2552)
 
-SR: Scientific Reports
+SR: [Scientific Reports](https://www.nature.com/srep/)
 
-PNAS: Proceedings of the National Academy of Sciences
+PNAS: [Proceedings of the National Academy of Sciences](https://www.pnas.org)
 
-TBE: IEEE Transactions on Biomedical Engineering
+TBE: [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 
-SPM : IEEE Signal Processing Magazine
+SPM : [IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79)
 
-NME: Nature Machine Intelligence
+NME: [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
 
-FNS: Frontiers in Neuroscience
+FNS: [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
