@@ -36,8 +36,9 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 # Hybrid BCI
 [Implementing over 100 command codes for a high-speed hybrid brain-computer interface using concurrent P300 and SSVEP features {TBE 2020}](https://ieeexplore.ieee.org/abstract/document/9023382)
+[A high-speed hybrid brain-computer interface with more than 200 targets] (https://iopscience.iop.org/article/10.1088/1741-2552/acb105) {JNE 2023}
 
-# Feautre Extraction CLassification
+# Feautre Extraction and Classification
 [Enhancing Detection of SSVEPs for a High-Speed Brain Speller Using Task-Related Component Analysis {TBE 2017}](https://ieeexplore.ieee.org/document/7904641)
 
 [EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces {JNE 2018}](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
