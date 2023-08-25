@@ -34,6 +34,10 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 [High-performance brain-to-text communication via handwriting {Nature 2021}](https://www.nature.com/articles/s41586-021-03506-2)
 
+[A high-performance speech neuroprosthesis {Nature 2023}](https://www.nature.com/articles/s41586-023-06377-x)
+
+[A high-performance neuroprosthesis for speech decoding and avatar control {Nature 2023}](https://www.nature.com/articles/s41586-023-06443-4)
+
 # Hybrid BCI
 [Implementing over 100 command codes for a high-speed hybrid brain-computer interface using concurrent P300 and SSVEP features {TBE 2020}](https://ieeexplore.ieee.org/abstract/document/9023382)
 
