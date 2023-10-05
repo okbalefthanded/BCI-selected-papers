@@ -48,7 +48,8 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 [EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces {JNE 2018}](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
 
-
+# Speech Decoding
+[Decoding speech perception from non-invasive brain recordings {NME 2023}](https://www.nature.com/articles/s42256-023-00714-5) 
 
 # Contribution
 Pull requests are welcomed, if a paper report unprecedented results or it is a good tutorial send a pull request and we will discuss it.
