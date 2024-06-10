@@ -29,7 +29,7 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 # code-modulated visual evoked potentials (C-Vep)
 [World’s fastest brain-computer interface: Combining EEG2Code with deep learning {PLOS One 2019}](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221909)
 
-# Non-invasive BCI
+# invasive BCI
 [Two-dimensional movement control using electrocorticographic signals in humans {JNE 2008}](https://iopscience.iop.org/article/10.1088/1741-2560/5/1/008)
 
 [High-performance brain-to-text communication via handwriting {Nature 2021}](https://www.nature.com/articles/s41586-021-03506-2)
