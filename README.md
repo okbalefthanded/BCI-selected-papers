@@ -38,6 +38,8 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 [A high-performance neuroprosthesis for speech decoding and avatar control {Nature 2023}](https://www.nature.com/articles/s41586-023-06443-4)
 
+[An Accurate and Rapidly Calibrating Speech Neuroprosthesis {NEJM 2024}](https://www.nejm.org/doi/full/10.1056/NEJMoa2314132)
+
 # Hybrid BCI
 [Implementing over 100 command codes for a high-speed hybrid brain-computer interface using concurrent P300 and SSVEP features {TBE 2020}](https://ieeexplore.ieee.org/abstract/document/9023382)
 
@@ -68,3 +70,5 @@ SPM : [IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIs
 NME: [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
 
 FNS: [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
+
+NEJM : [The New England Journal of Medicine](https://www.nejm.org)
