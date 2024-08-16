@@ -21,6 +21,8 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 [Fully portable and wireless universal brain–machine interfaces enabled by flexible scalp electronics and deep learning algorithm {NME 2019}](https://www.nature.com/articles/s42256-019-0091-7)
 
+[An SSVEP-based BCI with 112 targets using frequency spatial multiplexing {JNE 2024}](https://iopscience.iop.org/article/10.1088/1741-2552/ad4091)
+
 # Motor Imagery (MI)
 [Optimizing Spatial filters for Robust EEG Single-Trial Analysis {SPM 2008}](https://ieeexplore.ieee.org/document/4408441)
 
