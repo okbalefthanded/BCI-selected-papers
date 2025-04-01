@@ -54,6 +54,7 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 # Speech Decoding
 [Decoding speech perception from non-invasive brain recordings {NME 2023}](https://www.nature.com/articles/s42256-023-00714-5) 
+[A streaming brain-to-voice neuroprosthesis to restore naturalistic communication {NN 2025}](https://www.nature.com/articles/s41593-025-01905-6)
 
 # Contribution
 Pull requests are welcomed, if a paper report unprecedented results or it is a good tutorial send a pull request and we will discuss it.
@@ -70,6 +71,8 @@ TBE: [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/x
 SPM : [IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79)
 
 NME: [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+
+NN: [Nature Neuroscience](https://www.nature.com/neuro/)
 
 FNS: [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 
