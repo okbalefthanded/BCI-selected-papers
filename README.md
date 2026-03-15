@@ -54,7 +54,10 @@ Curated list of seminal and breakthrough papers in the field of Brain-Computer I
 
 # Speech Decoding
 [Decoding speech perception from non-invasive brain recordings {NME 2023}](https://www.nature.com/articles/s42256-023-00714-5) 
+
 [A streaming brain-to-voice neuroprosthesis to restore naturalistic communication {NN 2025}](https://www.nature.com/articles/s41593-025-01905-6)
+
+[Inner speech in motor cortex and implications for speech neuroprostheses {Cell 2025}](https://www.cell.com/cell/fulltext/S0092-8674(25)00681-6)
 
 # Contribution
 Pull requests are welcomed, if a paper report unprecedented results or it is a good tutorial send a pull request and we will discuss it.
